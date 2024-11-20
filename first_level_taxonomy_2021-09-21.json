@@ -1,0 +1,212 @@
+[
+  {
+    "ID": "1",
+    "Cat1": "Animals & Pet Supplies",
+    "Cat2": "",
+    "Cat3": "",
+    "Cat4": "",
+    "Cat5": "",
+    "Cat6": "",
+    "Cat7": ""
+  },
+  {
+    "ID": "166",
+    "Cat1": "Apparel & Accessories",
+    "Cat2": "",
+    "Cat3": "",
+    "Cat4": "",
+    "Cat5": "",
+    "Cat6": "",
+    "Cat7": ""
+  },
+  {
+    "ID": "8",
+    "Cat1": "Arts & Entertainment",
+    "Cat2": "",
+    "Cat3": "",
+    "Cat4": "",
+    "Cat5": "",
+    "Cat6": "",
+    "Cat7": ""
+  },
+  {
+    "ID": "537",
+    "Cat1": "Baby & Toddler",
+    "Cat2": "",
+    "Cat3": "",
+    "Cat4": "",
+    "Cat5": "",
+    "Cat6": "",
+    "Cat7": ""
+  },
+  {
+    "ID": "111",
+    "Cat1": "Business & Industrial",
+    "Cat2": "",
+    "Cat3": "",
+    "Cat4": "",
+    "Cat5": "",
+    "Cat6": "",
+    "Cat7": ""
+  },
+  {
+    "ID": "141",
+    "Cat1": "Cameras & Optics",
+    "Cat2": "",
+    "Cat3": "",
+    "Cat4": "",
+    "Cat5": "",
+    "Cat6": "",
+    "Cat7": ""
+  },
+  {
+    "ID": "222",
+    "Cat1": "Electronics",
+    "Cat2": "",
+    "Cat3": "",
+    "Cat4": "",
+    "Cat5": "",
+    "Cat6": "",
+    "Cat7": ""
+  },
+  {
+    "ID": "412",
+    "Cat1": "Food, Beverages & Tobacco",
+    "Cat2": "",
+    "Cat3": "",
+    "Cat4": "",
+    "Cat5": "",
+    "Cat6": "",
+    "Cat7": ""
+  },
+  {
+    "ID": "436",
+    "Cat1": "Furniture",
+    "Cat2": "",
+    "Cat3": "",
+    "Cat4": "",
+    "Cat5": "",
+    "Cat6": "",
+    "Cat7": ""
+  },
+  {
+    "ID": "632",
+    "Cat1": "Hardware",
+    "Cat2": "",
+    "Cat3": "",
+    "Cat4": "",
+    "Cat5": "",
+    "Cat6": "",
+    "Cat7": ""
+  },
+  {
+    "ID": "469",
+    "Cat1": "Health & Beauty",
+    "Cat2": "",
+    "Cat3": "",
+    "Cat4": "",
+    "Cat5": "",
+    "Cat6": "",
+    "Cat7": ""
+  },
+  {
+    "ID": "536",
+    "Cat1": "Home & Garden",
+    "Cat2": "",
+    "Cat3": "",
+    "Cat4": "",
+    "Cat5": "",
+    "Cat6": "",
+    "Cat7": ""
+  },
+  {
+    "ID": "5181",
+    "Cat1": "Luggage & Bags",
+    "Cat2": "",
+    "Cat3": "",
+    "Cat4": "",
+    "Cat5": "",
+    "Cat6": "",
+    "Cat7": ""
+  },
+  {
+    "ID": "772",
+    "Cat1": "Mature",
+    "Cat2": "",
+    "Cat3": "",
+    "Cat4": "",
+    "Cat5": "",
+    "Cat6": "",
+    "Cat7": ""
+  },
+  {
+    "ID": "783",
+    "Cat1": "Media",
+    "Cat2": "",
+    "Cat3": "",
+    "Cat4": "",
+    "Cat5": "",
+    "Cat6": "",
+    "Cat7": ""
+  },
+  {
+    "ID": "922",
+    "Cat1": "Office Supplies",
+    "Cat2": "",
+    "Cat3": "",
+    "Cat4": "",
+    "Cat5": "",
+    "Cat6": "",
+    "Cat7": ""
+  },
+  {
+    "ID": "5605",
+    "Cat1": "Religious & Ceremonial",
+    "Cat2": "",
+    "Cat3": "",
+    "Cat4": "",
+    "Cat5": "",
+    "Cat6": "",
+    "Cat7": ""
+  },
+  {
+    "ID": "2092",
+    "Cat1": "Software",
+    "Cat2": "",
+    "Cat3": "",
+    "Cat4": "",
+    "Cat5": "",
+    "Cat6": "",
+    "Cat7": ""
+  },
+  {
+    "ID": "988",
+    "Cat1": "Sporting Goods",
+    "Cat2": "",
+    "Cat3": "",
+    "Cat4": "",
+    "Cat5": "",
+    "Cat6": "",
+    "Cat7": ""
+  },
+  {
+    "ID": "1239",
+    "Cat1": "Toys & Games",
+    "Cat2": "",
+    "Cat3": "",
+    "Cat4": "",
+    "Cat5": "",
+    "Cat6": "",
+    "Cat7": ""
+  },
+  {
+    "ID": "888",
+    "Cat1": "Vehicles & Parts",
+    "Cat2": "",
+    "Cat3": "",
+    "Cat4": "",
+    "Cat5": "",
+    "Cat6": "",
+    "Cat7": ""
+  }
+]
